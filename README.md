@@ -10,7 +10,6 @@
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![Screenshot 1](https://github.com/harshapulikollu/m2p_app/blob/main/screenshots/img1.png?raw=true) | ![Screenshot 2](https://github.com/harshapulikollu/m2p_app/blob/main/screenshots/img2.png?raw=true) |
 | Splash screen                                                                                       | Login screen Mobile number                                                                          |
-
 | Screenshot 3                                                                                        | Screenshot 4                                                                                        |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![Screenshot 3](https://github.com/harshapulikollu/m2p_app/blob/main/screenshots/img3.png?raw=true) | ![Screenshot 4](https://github.com/harshapulikollu/m2p_app/blob/main/screenshots/img4.png?raw=true) |
